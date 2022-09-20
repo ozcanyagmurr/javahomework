@@ -1,6 +1,6 @@
 package java1;
 
-public class Video6 {
+public class Video6_Değişkenler {
 
 	public static void main(String[] args) {
 		int ürün = 100 ;

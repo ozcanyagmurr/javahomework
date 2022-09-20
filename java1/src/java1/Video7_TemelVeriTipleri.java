@@ -1,6 +1,6 @@
 package java1;
 
-public class Video7 {
+public class Video7_TemelVeriTipleri {
 
 	public static void main(String[] args) {
 		int sayi = 125864845 ;

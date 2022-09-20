@@ -1,6 +1,6 @@
 package java1;
 
-public class Video8 {
+public class Video8_IfBlokları {
 
 	public static void main(String[] args) {
 		int sayı = 24;
