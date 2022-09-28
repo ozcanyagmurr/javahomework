@@ -1,5 +1,5 @@
-package video31_fieldVeAtribute;
-// attribute field
+package videos31_32_33_34;
+//attribute | field
 public class Product {
 //	overloading
 	public Product(int id, String name, String description, double price, int stockAmount, String renk) {
@@ -71,5 +71,5 @@ public class Product {
 	
 	
 	
-	
+
 }
